@@ -1,0 +1,19 @@
+### Rules
+
+# Directory file content   ...   meta-content (as files) and word content (as files)
+
+.status_file
+.information_file
+.statistic_file
+.history_file.hist
+
+word_file
+# word name = file name
+
+# word name does not consist of:   (????)
+"."
+","
+
+
+
+

@@ -1,0 +1,19 @@
+####################################################
+# first word ?
+pwd
+HISTFILE="$(pwd)/words.1.hist"
+# Wir starten mit einer eigenen History
+la
+touch hello
+touch world
+touch now
+touch whatever
+touch thought
+touch mind
+touch piece
+touch peace
+touch gift
+touch the
+touch a
+touch another
+touch who

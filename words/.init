@@ -1,0 +1,5 @@
+
+
+HISTFILE="$(pwd)/.words.1.hist"
+
+. ~/mybash_main.rc
