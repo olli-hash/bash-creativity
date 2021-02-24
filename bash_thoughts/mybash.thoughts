@@ -1,0 +1,12 @@
+
+
+
+HISTFILE=~/mybash.thoughts.hist1
+
+. ~/.bashrc
+
+cd ~/bash_thoughts
+
+. ./init
+
+
